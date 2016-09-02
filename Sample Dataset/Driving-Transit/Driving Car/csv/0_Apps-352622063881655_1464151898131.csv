@@ -1,0 +1,79 @@
+user_id,sw_name,sw_version,device_id,device_type,timezone,type,start,end,app,process,timestamps
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,LockScreenApp,com.lockscreen,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,CrowdSignals.io,com.algosnap.crowdsignals,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Microsoft Health,com.microsoft.kapp:BandService,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,TouchWiz home,com.sec.android.app.launcher,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Settings,com.android.settings,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,My Files,com.sec.android.app.myfiles,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Swype,com.nuance.swype.input,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Package Access Helper,com.android.defcontainer,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Messages,com.android.mms,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Bluetooth,com.android.bluetooth,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Weather,com.sec.android.widgetapp.ap.hero.accuweather:SurfaceWidget,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Google App,com.google.android.googlequicksearchbox:search,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,SecurityManagerService,com.sec.android.service.sm,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Geo News,com.sec.android.GeoLookout,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Google Play services,com.google.android.gms.persistent,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Google Play services,com.google.android.gms,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Google Contacts Sync,com.google.process.gapps,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Passpoint Settings,com.samsung.hs20settings,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,LockScreenLabel,com.algosnap.crowdsignals.lockscreenlabel,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,AT&T Protect Plus,com.asurion.android.mobilerecovery.att,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Microsoft Health,com.microsoft.kapp,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Active applications,com.sec.android.widgetapp.activeapplicationwidget,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Camera,com.sec.android.app.camera,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Dual Clock (digital),com.sec.android.widgetapp.dualclockdigital,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Clock (digital),com.sec.android.widgetapp.digitalclock,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,System UI,com.android.systemui.recentsactivity,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Contacts,com.android.contacts,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Gallery,com.sec.android.gallery3d,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Internet,com.sec.android.app.sbrowser:sandboxed_process1,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Media Storage,android.process.media,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,User Dictionary,android.process.acore,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,TetheringProvision,com.sec.tetheringprovision,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Google Play Store,com.android.vending,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,DriveMode,com.drivemode,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,SecurityLogAgent,com.samsung.android.securitylogagent,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Wi-Fi Direct share,com.samsung.android.app.FileShareServer,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Wi-Fi Direct,com.samsung.android.app.FileShareClient,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Health Service,com.sec.android.service.health,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,S Health,com.sec.android.app.shealth,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Unified Daemon,com.sec.android.daemonapp,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Weather,com.sec.android.widgetapp.ap.hero.accuweather,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Chrome,com.android.chrome,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,S Finder,com.samsung.android.app.galaxyfinder:tagService,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Music,com.sec.android.app.music:service,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Galaxy Apps,com.sec.android.app.samsungapps,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Android Wear,com.google.android.wearable.app,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Google+,com.google.android.apps.plus,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,KNOX SetupWizardClient,com.sec.knox.knoxsetupwizardclient,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,KNOX,com.sec.knox.bridge,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,S Finder,com.samsung.android.app.galaxyfinder,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Samsung Push Service,com.sec.spp.push,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Setup Wizard,com.google.android.setupwizard,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Pinterest,com.pinterest,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,TechCrunch,com.techcrunch.vitula,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,GeekWire,com.geekwire,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Porch,com.porch.consumer,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,My Magazine,com.samsung.android.internal.headlines,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Security policy updates,com.policydm,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Context Service,com.samsung.android.providers.context,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Exchange services,com.android.exchange,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,AT&T Software update,com.ws.dm,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Recommended apps,com.sec.android.pagebuddynotisvc,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Samsung Link Platform Connectivity,com.sec.msc.nts.android.proxy,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Android Wear,com.google.android.wearable.app:flow,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Synchronize,com.smlds,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Android System,diagandroid.iqd,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,com.sec.phone,com.sec.phone,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,AT&T Hot Spots,com.matchboxmobile.wisp,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Phone,com.android.incallui,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,com.sec.imsservice,com.sec.imsservice,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,SmartcardService,org.simalliance.openmobileapi.service:remote,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Dialer Storage,com.android.phone,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Nfc Service,com.android.nfc,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Phone,com.android.server.telecom,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,System UI,com.android.systemui.imagewallpaper,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Google App,com.google.android.googlequicksearchbox:interactor,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,System UI,com.android.systemui,1464151897000000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,apps,1464151897000000000,1464151897000000000,Security storage,system,1464151897000000000

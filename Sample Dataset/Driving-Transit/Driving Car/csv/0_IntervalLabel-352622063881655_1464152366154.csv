@@ -1,0 +1,2 @@
+user_id,sw_name,sw_version,device_id,device_type,timezone,type,start,end,phone_position,watch_position,label,label_start,label_end
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,interval_label,1464151334564000000,1464152362362000000,Phone in front right pocket,Watch on left wrist,Car Driver,21:42:14:564,21:59:22:362

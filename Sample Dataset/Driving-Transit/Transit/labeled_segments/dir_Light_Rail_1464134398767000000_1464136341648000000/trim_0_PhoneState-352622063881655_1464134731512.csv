@@ -1,0 +1,16 @@
+user_id,sw_name,sw_version,device_id,device_type,timezone,type,start,end,event_type,data,number,timestamps
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134731502000000,1464134731502000000,ServiceStateChanged,STATE_OUT_OF_SERVICE,null,1464134731502000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134731564000000,1464134731564000000,ServiceStateChanged,STATE_OUT_OF_SERVICE,null,1464134731564000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134731608000000,1464134731608000000,DataConnectionStateChanged,DATA_CONNECTED,null,1464134731608000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134731610000000,1464134731610000000,DataConnectionStateChanged,DATA_CONNECTED,null,1464134731610000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134731658000000,1464134731658000000,DataConnectionStateChanged,DATA_DISCONNECTED,null,1464134731658000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134731659000000,1464134731659000000,DataConnectionStateChanged,DATA_DISCONNECTED,null,1464134731659000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134731691000000,1464134731691000000,CellLocationChanged,[0;108017679;-1],null,1464134731691000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134798717000000,1464134798717000000,ServiceStateChanged,STATE_IN_SERVICE,null,1464134798717000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134798788000000,1464134798788000000,ServiceStateChanged,STATE_IN_SERVICE,null,1464134798788000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134798865000000,1464134798865000000,CellLocationChanged,[37145;108016145;0],null,1464134798865000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134799031000000,1464134799031000000,DataConnectionStateChanged,DATA_DISCONNECTED,null,1464134799031000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134799031000000,1464134799031000000,DataConnectionStateChanged,DATA_DISCONNECTED,null,1464134799031000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134799053000000,1464134799053000000,DataConnectionStateChanged,DATA_CONNECTED,null,1464134799053000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134799054000000,1464134799054000000,DataConnectionStateChanged,DATA_CONNECTED,null,1464134799054000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134844662000000,1464134844662000000,CellLocationChanged,[37129;108017416;0],null,1464134844662000000

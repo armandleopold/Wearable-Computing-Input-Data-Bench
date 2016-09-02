@@ -1,0 +1,2 @@
+user_id,sw_name,sw_version,device_id,device_type,timezone,type,start,end,mcc,mnc,lac,cid,timestamps
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,gsm,1464133734000000000,1464133735000000000,310,410,37145,108011784,1464133734688000000

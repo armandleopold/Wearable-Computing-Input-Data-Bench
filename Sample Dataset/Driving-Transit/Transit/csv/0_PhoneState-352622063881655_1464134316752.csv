@@ -1,0 +1,8 @@
+user_id,sw_name,sw_version,device_id,device_type,timezone,type,start,end,event_type,data,number,timestamps
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134316747000000,1464134316747000000,CellLocationChanged,[37145;108020232;0],null,1464134316747000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134319040000000,1464134319040000000,DataActivity,DATA_ACTIVITY_INOUT,null,1464134319040000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134320045000000,1464134320045000000,DataActivity,DATA_ACTIVITY_OUT,null,1464134320045000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134321058000000,1464134321058000000,DataActivity,DATA_ACTIVITY_NONE,null,1464134321058000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134388471000000,1464134388471000000,DataActivity,DATA_ACTIVITY_INOUT,null,1464134388471000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134389475000000,1464134389475000000,DataActivity,DATA_ACTIVITY_NONE,null,1464134389475000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,phonestate,1464134397505000000,1464134397505000000,DataActivity,DATA_ACTIVITY_INOUT,null,1464134397505000000

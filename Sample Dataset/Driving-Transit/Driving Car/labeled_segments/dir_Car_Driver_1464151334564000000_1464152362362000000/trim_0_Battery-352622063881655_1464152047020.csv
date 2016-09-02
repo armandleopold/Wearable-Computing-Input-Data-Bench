@@ -1,0 +1,4 @@
+user_id,sw_name,sw_version,device_id,device_type,timezone,type,start,end,level,scale,temperature,voltage,plugged,status,health,timestamps
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,battery,1464152017000000000,1464152047000000000,67,100,298,3952,0,DISCHARGING,GOOD,1464152017157000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,battery,1464152017000000000,1464152047000000000,67,100,299,3958,0,DISCHARGING,GOOD,1464152035676000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,battery,1464152107000000000,1464152137000000000,67,100,300,3978,0,DISCHARGING,GOOD,1464152107146000000

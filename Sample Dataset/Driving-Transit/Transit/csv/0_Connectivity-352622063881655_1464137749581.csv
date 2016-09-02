@@ -1,0 +1,5 @@
+user_id,sw_name,sw_version,device_id,device_type,timezone,type,start,end,connected,connecting,available,network_type,roaming,ssid,timestamps
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,connectivity,1464137749563000000,1464137749563000000,true,true,true,WIFI_CONNECTION,NOT_ROAMING,"TOP-POT",1464137749563000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,connectivity,1464137749622000000,1464137749622000000,true,true,true,WIFI_CONNECTION,NOT_ROAMING,"TOP-POT",1464137749622000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,connectivity,1464137841582000000,1464137841582000000,true,true,true,MOBILE_CONNECTION,NOT_ROAMING,0x,1464137841582000000
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,connectivity,1464137842073000000,1464137842073000000,true,true,true,MOBILE_CONNECTION,NOT_ROAMING,0x,1464137842073000000

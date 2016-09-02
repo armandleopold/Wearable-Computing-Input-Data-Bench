@@ -1,0 +1,8 @@
+user_id,sw_name,sw_version,device_id,device_type,timezone,type,start,end,sensor_name,distance,maxRange,timestamps
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,proximity,1464133866000000000,1464133867000000000,TMG399X Proximity Sensor,0,8,1464133866895157553
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,proximity,1464134315000000000,1464134316000000000,TMG399X Proximity Sensor,8,8,1464134315759323802
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,proximity,1464134326000000000,1464134327000000000,TMG399X Proximity Sensor,0,8,1464134326781748176
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,proximity,1464134385000000000,1464134386000000000,TMG399X Proximity Sensor,8,8,1464134385348188541
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,proximity,1464134401000000000,1464134402000000000,TMG399X Proximity Sensor,0,8,1464134401562473073
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,proximity,1464134401000000000,1464134402000000000,TMG399X Proximity Sensor,8,8,1464134401686328125
+0,crowdsignals.algosnap.com,1.0(1),352622063881655,smartphone,-8,proximity,1464134401000000000,1464134402000000000,TMG399X Proximity Sensor,0,8,1464134401705734896
